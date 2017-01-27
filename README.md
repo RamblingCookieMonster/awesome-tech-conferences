@@ -5,6 +5,12 @@
 **This list is possible because of *your* contributions!  [Please contribute](#contributions)!**
 ***
 
+## June 2017
+- (June 28 - 30) [devopsdays Amsterdam 2017](https://www.eventbrite.co.uk/e/devopsdays-amsterdam-2017-tickets-31350888351). devops Amsterdam, the people behind the monthly meetup and devopsdays Amsterdam is bringing you the five year anniversary of devopsdays Amsterdam!
+
+## February 2017
+- (February 2 -3) [GITMERGE2017](http://git-merge.com/) Git Merge is the pre-eminent Git-focused conference: a full-day offering technical content and user case studies, plus a day of workshops for Git users of all levels. Git Merge 2017 will take place February 2-3 in Brussels.
+
 ## December 2016
  - (November 28 - December 4) [Techweek: Los Angeles](http://techweek.com/losangeles/) - The nation's leading technology conference and festival - showcasing entrepreneurship and innovation.
  - :star: (December 4 - 9) [LISA16](https://www.usenix.org/conference/lisa16) (Boston, MA, USA) - USENIX LISA conference for IT operations, where systems engineers, operations professionals, and academic researchers share real-world knowledge about designing, building, and maintaining the critical systems of our interconnected world.
